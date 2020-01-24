@@ -1,7 +1,5 @@
 body {
+  width: 300px;
+  margin: auto;
 background-color: #F5F5F5;
-background: radial-gradient(#FFFFFF, #F5F5F5);
-}
-{
-  margin: 100px;
 }
